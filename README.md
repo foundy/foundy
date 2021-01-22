@@ -1,4 +1,6 @@
-### Merry Christmas and Happy New Year! 👋 🎅 🎄 🎉
+### Hello! 👋
+
+When’s coronavirus gonna end? 😢
 
 <!--
 **foundy/foundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
